@@ -29,6 +29,18 @@
       "model": "Toyota ",
       "color": "Pink",
       "year": 2004
+    },
+    {
+      "id": "e735",
+      "model": "Honda Fit",
+      "color": "Blue",
+      "year": 2025
+    },
+    {
+      "id": "7b86",
+      "model": "Peugeot 5008",
+      "color": "Pink",
+      "year": 2025
     }
   ]
 }
