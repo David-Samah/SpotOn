@@ -10,7 +10,7 @@ function App(){
 return (
   <div className="app">
 <header>
-  <h1>Car Registration System</h1>
+  <h1>SpotOn Car Dealership</h1>
 </header>
 <main>
   <CarForm/>
